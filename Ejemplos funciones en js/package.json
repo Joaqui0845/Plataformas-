@@ -1,0 +1,11 @@
+{
+  "name": "ejemplos-funciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tipos de funciones.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
